@@ -10,7 +10,7 @@ chmod +x Mo
 get() {
 rm -fr MohamedApi.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/ramikong/Rambocli/master/Rambocli.lua"
+wget "https://raw.githubusercontent.com/pkg-tele/MohamedApi/master/MohamedApi.lua"
 lua Run.lua
 }
 installall(){
